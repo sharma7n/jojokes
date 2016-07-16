@@ -1,0 +1,1 @@
+web: python jojokes.py
