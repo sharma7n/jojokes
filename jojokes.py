@@ -27,6 +27,10 @@ jokes = [
     Joke("What is Dio's favorite TV sitcom?", "Everyone loves WRYYYYmond."),
     Joke("What is Avdol's least favorite dessert?", "Vanilla ice cream."),
     Joke("What kind of flowers does Jotaro buy for his mom?", "Yare yare daisies."),
+    Joke("What does Caeser have in common with soda?", "They both go flat when they run out of bubbles."),
+    Joke("What's Dio's favorite children book?", "Where's Za Waldo."),
+    Joke("Why did Avdul die?", "He swallowed a hol horse."),
+    Joke("How did Kakyoin know The World's ability?", "It's simple: he just had a gut feeling."),
 ]
 
 # define the views
